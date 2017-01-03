@@ -5,7 +5,7 @@ The main program is glitch.py. Also included is printImg.py, which will print ou
 
 ##Usage
 
-`glitch.py [image file]` or `glitch.py [image file] [number of iterations]
+`glitch.py [image file]` or `glitch.py [image file] [number of iterations]`
 
 ##Example
 ![abe]
